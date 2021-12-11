@@ -1,0 +1,19 @@
+{
+    "name": "Goofy",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "CGvXdWLaa9gajLb7xFnobMXceSLq2F7VumFF888sDSpV",
+          "share": 100
+        }
+      ]
+    }
+  }

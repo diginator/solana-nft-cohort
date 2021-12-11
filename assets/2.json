@@ -1,0 +1,19 @@
+{
+    "name": "Mickey",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "CGvXdWLaa9gajLb7xFnobMXceSLq2F7VumFF888sDSpV",
+          "share": 100
+        }
+      ]
+    }
+  }
